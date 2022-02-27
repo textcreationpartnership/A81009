@@ -1,0 +1,444 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of His Highnesse the Lord Protector to the Parliament in the painted chamber at Westminster, on Munday last, being the fourth of this instant September, 1654. Examined by the original copy ; published by order and authority.</title>
+            <author>Cromwell, Oliver, 1599-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81009</idno>
+            <idno type="STC">Wing C7170aA</idno>
+            <idno type="STC">ESTC R224556</idno>
+            <idno type="EEBO-CITATION">43663265</idno>
+            <idno type="OCLC">ocm 43663265</idno>
+            <idno type="VID">172012</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81009)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172012)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2607:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of His Highnesse the Lord Protector to the Parliament in the painted chamber at Westminster, on Munday last, being the fourth of this instant September, 1654. Examined by the original copy ; published by order and authority.</title>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Freeman,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained and tightly bound, with loss of print.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain. --  Parliament.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172012:1" rendition="simple:additions"/>
+            <p>THE SPEECH OF HIS HIGHNESSE THE LORD PROTECTOR TO THE PARLIAMENT IN The Painted Chamber at Weſtminſter, on Munday laſt, being the fourth of this inſtant <hi>September,</hi> 1654.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>EXamined by the Original Copy; Publiſhed by Order and Authority.</p>
+               </body>
+            </floatingText>
+            <p>London, Printed for G. FREEMAN, 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:172012:2"/>
+            <pb n="3" facs="tcp:172012:2"/>
+            <head>An excellent Speech of His Highneſs the Lord Protector, deliver'd to the Parliament on Mun<g ref="char:EOLhyphen"/>day laſt in the Painted Chamber.</head>
+            <p>
+               <seg rend="decorInit">O</seg>N Munday laſt about 9 of the clock in the forenoon, hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Highneſs the Lord Protector rode in his Coach to the Abbey Church in very ſtately equipage, the Gentlemen of his Highneſs going bare befor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ichly habited, and next before the Coach the Pages and Lacquey<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, (in their ſever<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l Liveries, moſt admirable to behold) on <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> on<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſide of the Coach was M<hi rend="sup">r</hi> 
+               <hi>Strickland,</hi> one of his Highneſs Council, &amp; Cap<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ain of his Guard of Foot; on the other ſid<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, M<hi rend="sup">r</hi> 
+               <hi>Howard</hi> Capt. of the Lif<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>g<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>d of Ho<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> both of them bare, went on foot. In the Coach wiih h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Highnes was th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>d <hi>Henry</hi> his ſon, Maj. Gen. <hi>Lambert,</hi> and the Lord Preſident <hi>La<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ence,</hi> both rid bare, the Maj Gen, in the end of the Coach againſt his Highneſs, &amp; the Lord P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſident in the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ht boot. After his Highneſs Coach rid M<hi rend="sup">r</hi> 
+               <hi>Claypool,</hi> M<hi rend="sup">r</hi> of the Horſe, and with him his Highneſs led Horſe, very rich, the cloth of cover<g ref="char:EOLhyphen"/>ing coſting 500 l. Next came the Lord Commiſſioners of the Seal, and Col. <hi>Sy<g ref="char:EOLhyphen"/>denham,</hi> and Col. <hi>Montague,</hi> Commiſſioners of the Exch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>quer. Then the Gentle<g ref="char:EOLhyphen"/>men of his Highneſs Foot Guard, and the Wardens of the Tower, all in his Highneſs Livery, went along about his Highneſs Coach. His Highnes alighting at the Abbey-dore, the Officers of the Army, and the Gentlemen went firſt in; after them 4 Maces, next them the Lord Commiſſioners of the Se<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l the L. <hi>Whit<g ref="char:EOLhyphen"/>lock</hi> ca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rying the purſe. After them, the L. <hi>Lambert,</hi> carrying the Sword, bare, be<g ref="char:EOLhyphen"/>fore his Highneſs. The reſt followed, and his Highneſs w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s ſea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed ove<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> againſt the Pulpit. After the Sermon was done (which was preached by M<hi rend="sup">r</hi> 
+               <hi>Th. Goodw<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi>) his Highneſs went on foo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, in the ſame <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>quipage, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the Painted Chamber, th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re being a very rich Chair wrought and trimmed with Gold, upon a place up <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o ſteps, like a Throne, with a Table before it, and ſeats for the members, and h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Highneſs ſtanding <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y with his head bare, deliver'd his mind very excellently as large to the Parliament. The ſubſtance whereof was as followeth.</p>
+            <p>THat the Parliament them met, was ſuch a Congregation as <hi>England</hi> never ſaw, having on their ſhoulders the intereſt of three great Nations, with the Territories thereunto belonging; Yea, that they had upon their ſhoulders the Intereſt of all the Chriſtian people in the world.</p>
+            <pb n="4" facs="tcp:172012:3"/>
+            <p>He promiſed in what he ſhould ſay, plainneſs and truth; taking notice, That after ſo many ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nges and turnings as this Nation hath laboured under, to have ſuch a day of hope, and ſuch a door of hope opened as this, was ſome months ſince above all our thoughts. That it might have been a matter worthy ſuch a meeting, to have remembred them what occaſioned the riſe and fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt be<g ref="char:EOLhyphen"/>ginning of all the toſſings that have been upon theſe Nations, and to have gi<g ref="char:EOLhyphen"/>ven a <hi>ſeries</hi> not of the <hi>tranſactions of men</hi> but of the <hi>providences of God</hi> all along to theſe Times, and the grounds of the firſt undertaking to oppoſe that Uſurpati<g ref="char:EOLhyphen"/>on and Tyrannie which was upon Us in our Civils and Spirituals: but ſome Reaſons diverted him from that; As,</p>
+            <p n="1">1 <hi>To have proceeded after that manner would have taken up the whole day; for Gods diſpenſations have been ſuch, that, as</hi> David <hi>ſayes in another caſe,</hi> If I ſhould ſit to count them, they are more then can be numbred.</p>
+            <p n="2">2 <hi>Becauſe the recapitulation of his providences had been largely and wiſely held forth in the Sermon that day, in an alluſion to the ſtate of, and dispenſations toward the Iſrae<g ref="char:EOLhyphen"/>lites (the onely parallel to Gods dealing with us, that he knew in the world) in bringing them out of Egypt through a wilderneſſe, towards their place of reſt.</hi>
+            </p>
+            <p n="3">3 <hi>Becauſe the end of that meeting was healing, and the remembring of former tranſa<g ref="char:EOLhyphen"/>ctions particularly might ſet the wounds freſh a bleeding; and if this day proves not a day of healing what ſhall we do? but if it be the mind of God (which alone muſt make it heal<g ref="char:EOLhyphen"/>ing) to put it into their hearts, then it would be ſuch a day as Generations to come would bleſſe them for it.</hi>
+            </p>
+            <p>That it was neceſſary rather to let them know in what condition theſe Na<g ref="char:EOLhyphen"/>tions were when this Government was erected, what were the breaches in our Civils and Spirituals, when every mans hand (at leaſt his heart) was againſt a<g ref="char:EOLhyphen"/>nother, little appeared tending to cementing.</p>
+            <p>All Gods diſpenſations, neither his terrible ones, when He met us in a way of judgment in a ten years civil war, and a ſharp ones, nor his merciful diſpen<g ref="char:EOLhyphen"/>ſations did work upon us. That we had our Humors and Intereſts, and (as He feared) our Humors were more then our Intereſts; our paſſions more then our judgments. Was not every thing almoſt grown arbytrary? What face was upon our affairs as to the intereſt and authority of the Magiſtrate, or to the rights &amp; orders of men, whereby diſtinctions have been made for hundreds of yeares of a <hi>Nobleman,</hi> a <hi>Gentleman,</hi> a <hi>Yeoman;</hi> it being a good intereſt of the Nation, and a great one? Every mans hand was upon his loins, and ſaid, <hi>We ſee nothing that bears ſway or rule.</hi>
+            </p>
+            <p>And that ſpirit that brought under that contempt, though it may be com<g ref="char:EOLhyphen"/>prehended in a very ſhort expreſſion of <hi>Men of levelling Principles,</hi> yet the thing had a vaſt extenſion, tending to reduce al the orders and ranks of men to an e<g ref="char:EOLhyphen"/>quality to make the Tenant of as liberal a fortune as his Landlord.</p>
+            <p>His Highneſſe took notice in the next place of the prodigious contempt up<g ref="char:EOLhyphen"/>on God and Chriſt, and his Ordinances; a ſpirit viſibly acting thoſe things w<hi rend="sup">ch</hi>
+               <pb n="5" facs="tcp:172012:3"/> were fore told by <hi>Peter</hi> and <hi>Jude,</hi> and <hi>Timothy,</hi> as the lot and portion of the laſt times, and ſomthing worſe then the Antichriſtian ſtate; that there ſhould be pe<g ref="char:EOLhyphen"/>rillous dayes, and therefore perillous becauſe they ſhould break all Rules, and labour to root out that remainder of the image of God which was left in the nature of fallen man: And this by men that ſhould have a form of godlineſſe, denying the power of it. And indeed the character whereby that ſpirit and principle is deſcribed, is ſo legible and viſible, that he that runs may read it: And he wiſhed th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t it were not to be read or ſeen, and that the grace of GOD might not be turn'd into wantonneſſe, and Chriſt and the Spirit of God made a cloak of vile practiſes.</p>
+            <p>He obſerved, That many would not own theſe things, yet they could tell you, the Magiſtrat hath nothing to do with matters of Conſcience or Religion; That he is to look to the outer man, not to meddle with the inner. And ſuch pretenſions he ſaid there were of liberty of the Subject, and of Conſcience (two as glorious things, and as much to be contended for, as any gift God hath gi<g ref="char:EOLhyphen"/>ven us.) That both theſe were brought in to patronize ſuch evils. Inſomuch, that it was affirmed, not to be in the power of the Magiſtrate ſo much as to print Bibles, left it ſhould ſeem an impoſition on the Conſciences of men, to receive them from the Magiſtrate, as true.</p>
+            <p>And theſe abominations ſwelled to that height, that the Ax was laid to the Root of the Miniſtry, as <hi>Antichriſtian</hi> and <hi>Babyloniſh.</hi> And as the extremity was great before, that no man, though well approved, and having a good teſtimony might preach, if not ordained, ſo now on the other hand, they would have Or<g ref="char:EOLhyphen"/>dination put a nullity upon the Calling. He took notice of another evil that had more refinedneſſe in it, more colour for it, and had deceived more people of integrity then the former; for few were catcht with the former miſtakes, but ſuch as apoſtatized from their holy profeſſion, ſuch as having been corrupted in their Conſciences, have been forſaken by God, and left to noyſome opinions. But there was another thing that deceived many well meaning people, whoſe hearts are ſincere, and ſuch (as he was perſwaded) belong to God, and that is the <hi rend="large">Fifth Monarchie,</hi> Mens pretending to more ſpirituality then any other. It is a Notion, which (as he hoped) we all honour and wait for, That <hi>Jeſus Chriſt</hi> will have his time to ſet up his reign in our hearts, and to ſubdue that corrup<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion and luſt which reigns more in the world now than ever; and he hoped in due time, it ſhall be; But for men to entitle themſelves to be the onely men to govern Nations, and rule Kingdoms, and give Laws to the world, to determine of property and li<g ref="char:EOLhyphen"/>berty, and every thing elſe, needs a great manifeſtation of Gods preſence before wiſe men will ſubmit to it.</p>
+            <pb n="6" facs="tcp:172012:4"/>
+            <p>Many of thoſe he conc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ived in his very ſoul had good meanings, a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d he ho<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d this <hi>Pa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>liament</hi> would (as <hi>Jude</hi> ſayes, reckoning up the abomin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble Apoſta<g ref="char:EOLhyphen"/>cies of the aſt times) pluck ſome out of the fire, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ave others with fear, ma<g ref="char:EOLhyphen"/>king tho e o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> peaceable Spirits, the ſubj<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct of their encouragement, and ſaving others by that di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cipline that God hath ord<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ined to reform miſcar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iages. The danger of that Spirit being not in the notion, but in its proceeding to a civill tr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nſgreſſion. When men ſhall come into ſuch a practice, as to tell u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <hi>That liber<g ref="char:EOLhyphen"/>ty and proper<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y are not the badges of that Kingdom; and that in ſtead of regulating Lawes, Laws muſt be ſubverted, and perhaps the Judicial Law impoſed, or ſome fancy in ſtead of it (for t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at was good and honourable in the Inſtitution, though now by ſome miſapplyed) ſpecially when every ſtone is turn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d to bring in Confuſion.</hi> This will be a conſiderati<g ref="char:EOLhyphen"/>on worthy of the Magiſtrate.</p>
+            <p>His Highneſs p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oceeded to ſhew, <hi>That while theſe things were in the midſt of us, and the Nation rent and turn from one end to another, Family againſt Family, Pa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nt a<g ref="char:EOLhyphen"/>gainſt Child, and nothing in the hearts and minds of men, but</hi> Ov<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>turn, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>urn, <hi>a Scripture ve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y much abuſed, and challenged by all men of diſcontented Spi<g ref="char:EOLhyphen"/>rits.</hi> The common enemy in the mean time ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eps not; ſwarms of J<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> c<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing ove<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, having thei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Conſiſtories abroad to rule all the <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>England,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d the dependancies thereof. In the mean time viſible ende<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vors <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>der the work in <hi>Ireland,</hi> to obſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uct the work in <hi>Scotland;</hi> Correſpon<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> In<g ref="char:EOLhyphen"/>telligencies are held to incourage &amp; foment the war in theſe places. <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> all we were deeply ingaged in a war with <hi>Portugal,</hi> whereby our T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ade <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>: and not onely ſo, but a war with <hi>Holland,</hi> which conſumed our T<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſure <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> much as the Aſſeſment came to.</p>
+            <p>At the ſame time we fell into a war with <hi>France,</hi> or rather we were in it, and all this fomented by the diviſions amongſt us, which begat a confiden<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s we could not hold out long; and the calculation had not been ill, if the Lord h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d not been gracious to us B ſid<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, ſtrangers increaſed in the Manufacture, th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſta<g ref="char:EOLhyphen"/>ple commodity of this N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion. In ſuch a he<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p of confuſion was this p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or Na<g ref="char:EOLhyphen"/>tion, and that it might not ſink into a confuſion, from theſe premiſes a Rem<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dy muſt be applyed.</p>
+            <p>A Remedy hath been applyed: <hi>This Government a thing that is ſeen, and read of all; and which, let men ſay what they will (he could ſpeak with comfort befere a Greater then th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y all, as to his own intention, and let men judge out of the thing it ſelf)</hi> is calcu<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d for the intereſt of the people, for their intereſt alone, and to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> good, with u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> reſpect had to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ither intereſt. He added, That he might wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h hum<g ref="char:EOLhyphen"/>bleneſs towards God, and modeſty before them, ſay ſomething in behalf of it.</p>
+            <p>
+               <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t hath endeavoured to refo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m the Laws and for that end hath joyned perſons (without reflection upon any) of as great ability and integrity as any other, to conſider how the laws might be m<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e pl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in, ſhort, and eaſie which may in due time be tendered.</hi>
+            </p>
+            <p>
+               <hi>It hath t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ken care to put into ſeats of Juſtice, men of the moſt known integrity and abi<g ref="char:EOLunhyphen"/>lity.
+<pb n="7" facs="tcp:172012:4"/> The Chancery hath been reformed, and (I hope) to the juſt ſatisfaction of all good men. It hath put a ſtep to that heady way, for every man that will, to make himſelf a Prea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her, having endeavoured to ſettle a way for appr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bation of men of piety, and fitneſſe for the work, and the buſineſſe committed to truſty perſons both of the Presby<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erian and Indepen<g ref="char:EOLhyphen"/>dent Judgment, men of as known ability and integrity, as (we ſuppoſe) any the Nation hath, and (we believe) have laboured to approve themſelves to God and their own C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<g ref="char:EOLhyphen"/>ſciences, in approving men to that great Function.</hi>
+            </p>
+            <p>
+               <hi>It hath taken care to expunge men unfit for that work, who have been the common ſcorn and reproach of that Adminiſtra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion.</hi> — One thing more, It hath been inſtrumental to call a free Parliament, bleſſed be God we ſee here this day a free Parliament; and that it may continue ſo, he hop<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s is in the heart of every good man of <hi>England;</hi> and he added, That for his own part, as he had deſired it a<g ref="char:EOLhyphen"/>bove his life, ſo to keep it free, he ſhould value it ab<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve his life.</p>
+            <p>Having thus inſtanced in the wars wherein we were plunged, and the little aſſurance from Neighbo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us abroad, he procedeed to ſhew that a Peace is made with <hi>Sweden</hi> (wherein an honourable perſon was inſtrumental) it being of much importance to have a good underſtanding with our Proteſtant Neigh<g ref="char:EOLhyphen"/>b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs<g ref="char:punc">▪</g> A peace is alſo made with the <hi>Dane,</hi> and a peace there that is honourable, and to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tisfaction of the Merchants.</p>
+            <p>The <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> open to us, from whence as from a Fountain, our Naval provi<g ref="char:EOLhyphen"/>ſions are <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</p>
+            <p>That a <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is made with the <hi>Dutch</hi> (which is ſo well known in the conſe<g ref="char:EOLhyphen"/>quen<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <p>He ſet for<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the advantage of a good Und rſtanding with Proteſtant States. And he begged, <hi>That it might be in the Parliaments hearts to be zealous of the P ote<g ref="char:EOLhyphen"/>ſtant Intereſt ab oad, whibh if ever it be like to come under a condition of ſuff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ring, it is now, many of them being baniſhed and d<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ven to ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>k refuge among ſtrangers. That a peace is made with Po<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tuga<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> (though it hung long) of great concernment to Trade; and the peo<g ref="char:EOLhyphen"/>ple that trade thither, have freedom to enjoy their Conſciences, without being ſubjected to the bloody Inquiſition. And that a Treaty with France is now depending.</hi>
+            </p>
+            <p>His Highneſſe then further declared, That it might be neceſſary for them to hear a little of the Sea affairs, &amp; took notice of the great expence of the for<g ref="char:EOLhyphen"/>ces and fleet, and yet 30000 <hi>l.</hi> is now abated of the next three months aſſeſment. And having ſpoken about an hour and half, his Highneſs drew to a concluſion, preſenting them with this Obſervation, That the things before-mentioned are but entrances and doors of hope; That they are brought to the edge of <hi>Canaan</hi> (into which many that have gone before could not enter) That if the bleſſing and preſence of God go along with them in management of their Affaires, He makes no queſtion but he will inable them to lay the top-ſtone of this Work. He then remembred them, that they have a great work upon them; <hi>Ireland</hi> to look to; that the beginnings of that Government may be ſetled in terms of ho<g ref="char:EOLhyphen"/>nour,
+<pb n="8" facs="tcp:172012:5"/> That they had before them the conſideration of thoſe forrein States tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as yet peace is not made with, who if they ſhall ſee we manage not our Affaires with prudence as becom s men, will re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ain hopes that we may ſink under the diſadvantages thereof, and break into confuſion. He perſwaded th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o have a ſweet, gracious, and holy underſtanding one of another, and put them in mind of the councel heard that day in order thereunto. And deſired them for a con<g ref="char:EOLhyphen"/>cluſion, to believe that He ſpake not to them as one that would be a Lord over them, but as one that was reſolved to be a fellow-ſervant with them, to the In<g ref="char:EOLhyphen"/>tereſt of this great Affair; and ſo wiſhed them to repair to their Houſe, and ex<g ref="char:EOLhyphen"/>erciſe their own liberty in the choice of their Speaker. His Highneſs having done, the Members went to their Houſe, and having choſe M<hi rend="sup">r</hi> 
+               <hi>Lenthal</hi> Speaker, they ordered a Faſt to be kept by them, and in London, and parts adjacent on the 13 of this inſtant <hi>Septemb.</hi> In all other parts of <hi>England, Scotland,</hi> &amp; <hi>Wales,</hi> on the 4 of <hi>Octob.</hi> And in <hi>Ireland</hi> the 1 of <hi>Novemb.</hi> to ſeek to God for direction and counſel, and to pray for a bleſſing upon their endeavors.</p>
+            <p>
+               <hi>After which, his Highneſſe retired into the place, formerly called the Houſe of Lords, and ſo took Barge, and went down to White-Hall by water.</hi>
+            </p>
+            <trailer>The End.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
